@@ -7,9 +7,9 @@ Per Google Publisher requirements, the following indexes match active developer 
 
 | System Asset | Active Public Endpoint | Verification Type |
 | :--- | :--- | :--- |
-| **Developer Website Field** | [https://github.io](https://github.io) | Base Domain Root |
-| **Privacy Policy Field** | [https://github.io/privacy_policy/](https://github.io/privacy_policy/) | Data Compliance |
-| **AdMob Crawler Path** | [https://github.io/app-ads.txt](https://github.io/app-ads.txt) | Fraud Prevention |
+| **Developer Website Field** | [https://arslan32792.github.io/](https://arslan32792.github.io/) | Base Domain Root |
+| **Privacy Policy Field** | [https://arslan32792.github.io/privacy_policy/](https://arslan32792.github.io/privacy_policy/) | Data Compliance |
+| **AdMob Crawler Path** | [https://arslan32792.github.io/app-ads.txt/](https://arslan32792.github.io/app-ads.txt) | Fraud Prevention |
 
 ---
 
